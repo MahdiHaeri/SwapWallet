@@ -1,17 +1,17 @@
 # SwapWallet
 <p align="center">
-    <img src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/bf7645b6-fc5c-4618-a391-d3fbdec9b899" alt="swap wallet logo" width="200">
+    <img src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/044d0dc1-3209-4208-b67d-f71dcf8fbedb" alt="swap wallet logo" width="200">
 </p>
 
 ## Screenshots
 
 | Light | Dark |
 | :---: | :----: |
-| <img width="1512" alt="light_wallet" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/c95ad047-db05-4dbb-ba66-a356fc1b11f2"> | <img width="1512" alt="dark_wallet" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/86405020-af5e-44af-82b2-cf61996fb5d4"> |
-| <img width="1512" alt="light_transaction" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/5ef8ad5f-6a27-4fe0-b6cb-7d7a88b9b5c3"> | <img width="1512" alt="dark_transaction" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/9fc18312-529c-455a-a20d-7221ac9d3dc2"> |
-| <img width="1512" alt="light_transaction_detail" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/443096e8-07e6-4508-8ac8-5092bfd07789"> | <img width="1512" alt="dark_transaction_detail" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/2b5622ad-fac5-436d-927a-6f61800f1fac"> |
-| <img width="1512" alt="light_deposit_rial" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/925fa7cc-57ba-44ad-becb-3f7286e58fc9"> | <img width="1512" alt="dark_deposit_rial" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/0fe55554-a41d-4a9d-a05c-ceed3929d086"> |
-| <img width="1512" alt="light_swap" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/ff9fe656-14fe-4cc1-af55-38c26addd002"> | <img width="1512" alt="dark_swap" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/307cfb11-6812-4026-951c-6fbafef89176"> |
-| <img width="1512" alt="light_receive" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/644304be-818d-43ad-9b50-fccfbe81d276"> | <img width="1512" alt="dark_receive" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/844eb615-c4e2-4ce7-94db-6affc33e5dee"> |
-| <img width="1512" alt="light_send" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/5b8fdd2c-ed44-430c-ad79-e8f59d4f9269"> | <img width="1512" alt="dark_send" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/81752491-885f-4134-9a52-079c96a2317c"> |
+| <img width="1512" alt="light_wallet" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/b110761b-bb35-4788-af79-7b9b6fc57668"> | <img width="1512" alt="dark_wallet" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/ba623103-60d0-4833-ad9c-55fd053f6edb"> |
+| <img width="1512" alt="light_transaction" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/393cb3f4-59d9-412a-b937-b31f813fc8e1"> | <img width="1512" alt="dark_transaction" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/af5a10d0-9497-419d-b6e6-619677075893"> |
+| <img width="1512" alt="light_transaction_detail" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/69cf0c32-4fc9-4f45-b83d-b0807685c4f2"> | <img width="1512" alt="dark_transaction_detail" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/11227606-64c8-4fd5-bf32-e46d7a7f71ea"> |
+| <img width="1512" alt="light_deposit_rial" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/25c7958d-6bac-42ec-94e8-3c35cf4e290b"> | <img width="1512" alt="dark_deposit_rial" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/95e18fc6-5d4b-4388-84d9-587a628a9562"> |
+| <img width="1512" alt="light_swap" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/361f46a8-4efb-49b8-a551-0fea0cbb5325"> | <img width="1512" alt="dark_swap" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/62b37ab8-7c47-420e-a71a-eefaf2ed39e1"> |
+| <img width="1512" alt="light_receive" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/c4b5eef7-eda1-4331-b42a-8aeef4295ed5"> | <img width="1512" alt="dark_receive" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/9caec3fb-c253-4f3b-bd45-d9fba0fcc61a"> |
+| <img width="1512" alt="light_send" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/5db9f44b-3a28-4753-a86d-480f887a6042"> | <img width="1512" alt="dark_send" src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/eb83b0da-9ca2-4838-83cf-644b9bb660d5"> |
 
