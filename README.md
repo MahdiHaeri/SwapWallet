@@ -1,6 +1,6 @@
 # SwapWallet
 <p align="center">
-    <img src="assets/swapwallet_logo.png" alt="swap wallet logo" width="200">
+    <img src="https://github.com/MahdiHaeri/SwapWallet/assets/73737391/bf7645b6-fc5c-4618-a391-d3fbdec9b899" alt="swap wallet logo" width="200">
 </p>
 
 ## Screenshots
