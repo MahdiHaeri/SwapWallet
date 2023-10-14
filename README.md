@@ -1,6 +1,7 @@
 # SwapWallet
-SwapWallet Android Application Preview
-
+<p align="center">
+    <img src="assets/swapwallet_logo.png" alt="swap wallet logo" width="200">
+</p>
 
 ## Screenshots
 
